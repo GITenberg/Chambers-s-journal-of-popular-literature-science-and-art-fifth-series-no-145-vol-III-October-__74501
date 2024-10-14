@@ -1,0 +1,32 @@
+_repo: Chambers-s-journal-of-popular-literature-science-and-art-fifth-series-no-145-vol-III-October-__74501
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2024-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74501'
+language: en
+pgterms:marc904: https://archive.org/details/chambers-journal-5th-series-vol-03-images
+pgterms:marc905: 20051128110452chambers
+pgterms:marc906: '1853'
+pgterms:marc907: GB
+production_note: Susan Skinner, Eric Hutton and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bWilliam and Robert Chambers, $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chambers's journal of popular literature, science, and art, fifth series, no.
+  145, vol. III, October 9, 1886
+url: http://www.gutenberg.org/ebooks/74501
